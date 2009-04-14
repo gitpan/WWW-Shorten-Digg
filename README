@@ -1,0 +1,41 @@
+
+WWW::Shorten::Digg - Perl interface to the URL shorten on digg.com
+
+
+DESCRIPTION
+
+A Perl interface to the web site digg.com.  Digg maintains
+a database of long URLs, each of which has a unique identifier.
+
+
+DOCUMENTATION
+
+Documentation on how to use this module is availabe in the POD format,
+inside the Digg.pm file.
+
+
+INSTALLATION
+
+To install this module type the following well-known commands:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires Perl 5.006 or above.
+The URI::Escape & HTML::Entities module.
+
+AUTHOR INFORMATION
+
+Martin Broerse <broerse@martinic.com>, http://www.broerse.net/
+
+
+COPYRIGHT
+
+(c) Martinic 2009. This module is free software; you can
+redistribute it and/or modify it under the same terms as Perl itself.
+
+For more information on Martinic visit http://www.martinic.com/

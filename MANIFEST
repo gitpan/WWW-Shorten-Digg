@@ -1,0 +1,8 @@
+lib/WWW/Shorten/Digg.pm
+t/Digg.t
+Changes
+Makefile.PL
+MANIFEST
+README
+
+META.yml                                 Module meta-data (added by MakeMaker)
